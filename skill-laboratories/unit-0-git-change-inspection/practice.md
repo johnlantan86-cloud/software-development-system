@@ -17,3 +17,10 @@ Before every commit, I will run:
 Then, when needed:
 
 `git diff`
+
+## Personal Inspection Rule
+
+Before I commit, I must check:
+- `git status`
+- `git diff` if there are unstaged changes
+- `git diff --cached --stat` if there are staged changes
