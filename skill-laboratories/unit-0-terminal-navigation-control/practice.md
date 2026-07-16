@@ -18,3 +18,6 @@ Before creating anything, I will run:
 Then:
 
 `dir`
+## Personal Navigation Rule
+
+Before I create or edit files, I must confirm I am in the correct folder using `pwd` and `dir`.
