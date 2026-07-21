@@ -1,3 +1,3 @@
 # Conflict Practice
 
-Project title: Master Version System
+Project title: Resolved Version System
