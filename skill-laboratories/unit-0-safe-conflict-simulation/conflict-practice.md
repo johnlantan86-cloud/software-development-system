@@ -1,3 +1,3 @@
 # Conflict Practice
 
-Project title: Developer Control System
+Project title: Master Version System
