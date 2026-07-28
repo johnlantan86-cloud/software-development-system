@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HTML Mini Page Integration</title>
+</head>
+<body>
+  <header>
+    <h1>My HTML Learning Profile</h1>
+    <p>A mini page that combines the HTML skills I have learned.</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#skills">Skills</a>
+    <a href="#progress">Progress</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <main>
+    <section id="about">
+      <h2>About This Page</h2>
+      <p>This page combines document structure, text, links, images, semantic layout, tables, and forms.</p>
+      <img src="images/profile-card.svg" alt="HTML mini page profile card">
+    </section>
+
+    <section id="skills">
+      <h2>Skills Practiced</h2>
+      <ul>
+        <li>Writing valid HTML structure</li>
+        <li>Creating navigation links</li>
+        <li>Using images with correct file paths</li>
+        <li>Building forms and tables</li>
+      </ul>
+    </section>
+
+    <section id="progress">
+      <h2>Learning Progress</h2>
+
+      <table>
+        <thead>
+          <tr>
+            <th>HTML Skill</th>
+            <th>Status</th>
+            <th>Evidence</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr>
+            <td>Semantic layout</td>
+            <td>Passed</td>
+            <td>Used header, nav, main, section, and footer</td>
+          </tr>
+          <tr>
+            <td>Images</td>
+            <td>Passed</td>
+            <td>Loaded an SVG from an images folder</td>
+          </tr>
+          <tr>
+            <td>Forms</td>
+            <td>Passed</td>
+            <td>Connected labels to inputs</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Practice</h2>
+
+      <form>
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="message">Message</label>
+        <textarea id="message" name="message" required></textarea>
+
+        <button type="submit">Send</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 HTML Learning Profile. All rights reserved.</p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,8 @@
+<svg width="400" height="220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="220" fill="lightgray" />
+  <circle cx="200" cy="80" r="40" fill="white" />
+  <rect x="120" y="140" width="160" height="35" fill="white" />
+  <text x="200" y="200" text-anchor="middle" font-size="20" fill="black">
+    HTML Mini Page
+  </text>
+</svg>
