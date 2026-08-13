@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: lightgray;
+}
+
+h1 {
+  color: darkblue;
+}
+
+.intro-text {
+  font-size: 18px;
+}
+
+.card {
+  background-color: white;
+  padding: 16px;
+  margin: 12px;
+}
+
+.highlight-card {
+  color: blue;
+}
+
+#hero {
+  padding: 24px;
+}
+
+#special-section {
+  background-color: lightyellow;
+}
