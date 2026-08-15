@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.content-box {
+  width: 300px;
+  padding: 20px;
+  border: 3px solid black;
+  margin: 20px;
+}
+
+.border-box {
+  width: 300px;
+  padding: 20px;
+  border: 3px solid darkblue;
+  margin: 20px;
+  box-sizing: border-box;
+}
