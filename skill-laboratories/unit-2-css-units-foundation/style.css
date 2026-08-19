@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.parent-box {
+  width: 400px;
+  border: 2px solid black;
+}
+
+.percent-box {
+  width: 50%;
+  background-color: lightblue;
+}
+
+.viewport-box {
+  width: 50vw;
+  height: 20vh;
+  background-color: lightgray;
+}
+
+.rem-text {
+  font-size: 2rem;
+}
