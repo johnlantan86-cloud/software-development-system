@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.parent-section {
+  color: darkgreen;
+}
+
+p {
+  color: blue;
+}
+
+.note {
+  color: green;
+}
+
+#message {
+  color: red;
+}
+
+.order-example {
+  background-color: lightblue;
+}
+
+.order-example {
+  background-color: lightyellow;
+}
