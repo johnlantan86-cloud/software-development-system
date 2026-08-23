@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: whitesmoke;
+  color: darkslategray;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: 700;
+  text-align: center;
+  color: darkblue;
+}
+
+.intro {
+  font-size: 18px;
+  text-align: center;
+}
+
+.card {
+  background-color: white;
+  padding: 20px;
+}
+
+.body-text {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.highlight-card {
+  background-color: darkblue;
+  color: white;
+  padding: 20px;
+}
