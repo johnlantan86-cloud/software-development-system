@@ -1,25 +1,46 @@
 # Current Position
 
 ## Active Unit
-Unit 0 — Developer Control Foundation
+Unit 2 - CSS Foundation
 
-## Completed Labs
-- Lab 0.1 — File and Folder Control
-- Lab 0.2 — Terminal Navigation Control
-- Lab 0.3 — Git Change Inspection
-- Lab 0.4 — Git Unstage and Restore Control
-- Lab 0.5 — Git Branch Control
-- Lab 0.6 — Git Remote Control
-- Lab 0.7 — Git Pull and Fetch Control
-- Lab 0.8 — Git Conflict Awareness
-- Lab 0.9 — Safe Conflict Simulation
+## Completed Units
+- Unit 0 - Developer Control Foundation
+- Unit 1 - HTML Foundation
+
+## Completed CSS Labs
+- Lab 2.1 - CSS Linking Foundation
+- Lab 2.2 - CSS Selectors Foundation
+- Lab 2.3 - CSS Box Model Foundation
+- Lab 2.4 - CSS Box Sizing Foundation
+- Lab 2.5 - CSS Units Foundation
+- Lab 2.6 - CSS Display and Basic Layout Flow
+- Lab 2.7 - CSS Typography and Color Foundation
+- Lab 2.8 - CSS Cascade, Specificity, and Inheritance Foundation
+- Lab 2.9 - CSS Positioning Foundation
+- Lab 2.10 - CSS Flexbox Foundation
+- Lab 2.11 - CSS Grid Foundation
+- Lab 2.12 - CSS Responsive Media Queries Foundation
+
+## Last Completed Lab
+Lab 2.12 - CSS Responsive Media Queries Foundation
+
+Commit: d0082f9
 
 ## Current Status
-The Git control foundation has been completed through safe conflict simulation.
+CSS foundations have been completed through responsive media queries.
 
 ## Next Lab
-Lab 0.10 — Project Record Update Control
+Lab 2.13 - CSS Pseudo-classes and Transitions Foundation
 
 ## Current Repository State
-Local master is connected to origin/master on GitHub.
-The working tree should be clean before starting each new lab.
+Local master is synchronized with origin/master.
+The working tree was clean after pushing Lab 2.12.
+
+## Continuity Rule
+After a noticeable break or any uncertainty about the current position, verify progress with Git before continuing.
+
+Primary verification:
+- git status
+- git log --oneline -5
+
+Repository evidence overrides remembered conversation position if they conflict.
