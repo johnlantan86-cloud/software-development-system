@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.hover-button {
+  background-color: lightblue;
+  padding: 12px 20px;
+  border: 2px solid darkblue;
+  transition: background-color 0.3s;
+}
+
+.hover-button:hover {
+  background-color: darkblue;
+  color: white;
+}
+
+.focus-input {
+  padding: 10px;
+  border: 2px solid gray;
+  transition: border-color 0.3s;
+}
+
+.focus-input:focus {
+  border-color: darkblue;
+}
