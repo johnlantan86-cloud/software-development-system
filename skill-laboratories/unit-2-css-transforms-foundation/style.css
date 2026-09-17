@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.box {
+  width: 140px;
+  padding: 20px;
+  margin: 30px;
+  background-color: lightblue;
+  text-align: center;
+}
+
+.translate-box {
+  transform: translateX(40px);
+}
+
+.scale-box {
+  transform: scale(1.2);
+}
+
+.rotate-box {
+  transform: rotate(10deg);
+}
