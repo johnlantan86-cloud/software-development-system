@@ -21,21 +21,22 @@ Unit 2 - CSS Foundation
 - Lab 2.11 - CSS Grid Foundation
 - Lab 2.12 - CSS Responsive Media Queries Foundation
 - Lab 2.13 - CSS Pseudo-classes and Transitions Foundation
+- Lab 2.14 - CSS Transforms Foundation
 
 ## Last Completed Lab
-Lab 2.13 - CSS Pseudo-classes and Transitions Foundation
+Lab 2.14 - CSS Transforms Foundation
 
-Commit: 5308b05
+Commit: c854cf4
 
 ## Current Status
-CSS foundations have been completed through pseudo-classes and transitions.
+CSS foundations have been completed through transforms.
 
 ## Next Lab
-Lab 2.14 - CSS Transforms Foundation
+Lab 2.15 - CSS Variables Foundation
 
 ## Current Repository State
 Local master is synchronized with origin/master.
-The working tree was clean after pushing Lab 2.13.
+The working tree was clean after pushing Lab 2.14.
 
 ## Continuity Rule
 After a noticeable break or any uncertainty about the current position, verify progress with Git before continuing.
