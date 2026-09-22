@@ -1,0 +1,24 @@
+:root {
+  --main-color: darkblue;
+  --light-color: lightblue;
+  --spacing: 20px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: var(--main-color);
+}
+
+.card {
+  background-color: var(--light-color);
+  padding: var(--spacing);
+}
+
+button {
+  background-color: var(--main-color);
+  color: white;
+  padding: 10px var(--spacing);
+}
