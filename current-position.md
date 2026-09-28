@@ -23,21 +23,24 @@ Unit 2 - CSS Foundation
 - Lab 2.13 - CSS Pseudo-classes and Transitions Foundation
 - Lab 2.14 - CSS Transforms Foundation
 - Lab 2.15 - CSS Variables Foundation
+- Lab 2.16 - CSS Mini Page Integration
 
 ## Last Completed Lab
-Lab 2.15 - CSS Variables Foundation
+Lab 2.16 - CSS Mini Page Integration
 
-Commit: 5cda6ee
+Commit: 1b44d76
 
 ## Current Status
-CSS foundations have been completed through CSS variables.
+All planned Unit 2 CSS foundation labs and the CSS mini page integration have been completed.
 
-## Next Lab
-Lab 2.16 - CSS Mini Page Integration
+## Next Step
+Unit 2 - CSS Foundation Review Gate
+
+The review gate will test retention, code reading, debugging, layout reasoning, and a small independent CSS task before Unit 2 is considered fully passed.
 
 ## Current Repository State
 Local master is synchronized with origin/master.
-The working tree was clean after pushing Lab 2.15.
+The working tree was clean after pushing Lab 2.16.
 
 ## Continuity Rule
 After a noticeable break or any uncertainty about the current position, verify progress with Git before continuing.
